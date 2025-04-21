@@ -12,7 +12,7 @@
         <div class="bg-white p-8 rounded-lg shadow-xl w-full max-w-md">
             <div class="text-center mb-8">
                 <h2 class="text-3xl font-bold text-gray-800">Create Account</h2>
-                <p class="mt-2 text-gray-600">Join PensionPro Management System</p>
+                <p class="mt-2 text-gray-600">One ID Pension Management System</p>
             </div>
             
             <?php if (isset($error)): ?>
