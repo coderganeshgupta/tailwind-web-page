@@ -159,8 +159,7 @@
             </div>
         </div>
     </div>
-    <section id="features" class="py-16 bg-gray-100 opacity-0 transform translate-y-10 transition-all duration-700">    <div class="container mx-auto px-4">
-        <h2 class="text-3xl font-bold text-center text-gray-800 mb-8">Our Features</h2>
+    <section id="features" class="py-16  opacity-0 transform translate-y-10 transition-all duration-700">                <h2 class="text-3xl font-bold text-center text-gray-800 mb-8">Our Features</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-lg shadow-md text-center">
                 <i class="fas fa-user-shield text-indigo-600 text-4xl mb-4"></i>
@@ -204,7 +203,7 @@
 
 
     <!-- About Section -->
-    <section id="about" class="py-24 bg-white relative overflow-hidden">
+    <section id="about" class="py-24 bg-gradient-to-r from-indigo-200 via-purple-200 to-pink-300 relative overflow-hidden">
         <div class="container mx-auto px-6">
             <div class="text-center mb-16" data-aos="fade-up">
                 <h2 class="text-4xl font-bold gradient-text inline-block mb-4">Why Choose Us</h2>
@@ -278,15 +277,10 @@
         <div class="absolute bottom-0 left-0 w-72 h-72 bg-purple-50 rounded-full filter blur-3xl opacity-30"></div>
     </section>
 
-    <!-- Navigation Links Section -->
-<div class="container flex justify-end gap-8">
-    <a href="#about" class="nav-link text-gray-600 hover:text-indigo-600 transition-colors duration-300">About</a>
-    <a href="#faqs" class="nav-link text-gray-600 hover:text-indigo-600 transition-colors duration-300">FAQs</a>
-    <a href="#team" class="nav-link text-gray-600 hover:text-indigo-600 transition-colors duration-300">Team</a> <!-- Updated -->
-</div>
 
 
-<section id="Team" class="py-24 bg-gray-50 relative overflow-hidden">
+
+<section id="Team" class="py-24 bg-gradient-to-r from-indigo-200 via-purple-200 to-red-200 relative overflow-hidden">
     <div class="container mx-auto px-6">
         <div class="text-center mb-16" data-aos="fade-up">
             <h2 class="text-4xl font-bold gradient-text inline-block mb-4">Meet Our Team</h2>
